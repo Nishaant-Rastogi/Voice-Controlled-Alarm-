@@ -11,3 +11,5 @@ The circuit can be made using a buzzer and a wifi module like bolt which has its
 
 One can make these applets in their IFTTT account,put appropriate HTTP requests ,linked to their email id and with the same id access Google Assistant to switch off the alarm.
 This alarm can have various more applications but here I have used it as an alarm clock.
+
+Checkout my project link for step by step process: https://projectsubmission.boltiot.com/?p=10886
