@@ -3,7 +3,9 @@ This project uses IFTTT applets of Google Assistant and WebHooks to make a voice
 
 Link of Applet to switch on the alarm at a specific time(7:45 PM) = https://ifttt.com/applets/z4pgBAw3
 
-Link of Applet to switch off the alarm = https://ifttt.com/applets/guJEzpQe
+Link of Applet to switch on the alarm on voice command = https://ifttt.com/applets/LiYnyfSL
+
+Link of Applet to switch off the alarm on voice command = https://ifttt.com/applets/guJEzpQe
 
 The circuit can be made using a buzzer and a wifi module like bolt which has its own API. So that we can pass commands using the remote API as an HTTP request to GET data from Bolt remote API through the WebHooks applet on IFTTT.
 
